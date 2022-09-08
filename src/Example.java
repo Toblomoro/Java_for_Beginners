@@ -20,5 +20,7 @@ public class Example {
         System.out. println( "After division x = " + x);
         System.out. println( "This shows the difference of double and var when it comes to rounding of numbers");
 
+
+
     }
 }
