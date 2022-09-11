@@ -1,3 +1,5 @@
+package Chap_1_If_Blocks_For_Table;
+
 public class GalToLit {
     //This program converts gallons to litre.
     public static void main(String[] args) {

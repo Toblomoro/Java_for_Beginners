@@ -1,3 +1,5 @@
+package Chap_1_If_Blocks_For_Table;
+
 public class Example {
     public static void main(String[] args) {
         int var1; //this declares a variable

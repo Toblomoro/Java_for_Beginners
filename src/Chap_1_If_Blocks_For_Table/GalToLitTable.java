@@ -1,3 +1,5 @@
+package Chap_1_If_Blocks_For_Table;
+
 public class GalToLitTable {
     /*This file displays a conversion table of gallons to litres
 
