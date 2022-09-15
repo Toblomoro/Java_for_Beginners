@@ -10,7 +10,7 @@ public class HowFarIsTheLighning {
         double echoTime;
         double distToWall;
 
-        time = 7.2;
+        time = 9.2;
         echoTime = 1.2; //if you clap your hands and time the echofrom a large object (like a brickwall) you can add or subtract it to get the time to a different object.
         distance = time * soundSpeed;
         distMiles = distance/5280;
