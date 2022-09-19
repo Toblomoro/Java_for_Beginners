@@ -13,5 +13,17 @@ public class Ifs {
         if (ch == answer)
             System.out.println("**CORRECT**");
         else System.out.println("**INCORRECT**");
+
+        //If else-if ladder
+        int x;
+        for (x = 0;  x< 6; x++) {
+            if (x==1){
+                System.out.println("X = 1");
+            } else if (x==2) {System.out.println("X = 2");
+            } else if (x==3) {System.out.println("X = 3");
+            } else if (x == 4) {System.out.println("X = 4");}
+            else {System.out.println(( "X is greater than 4"));
+            }
+        }
     }
 }
